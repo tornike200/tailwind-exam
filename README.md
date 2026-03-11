@@ -10,8 +10,6 @@ Tailwind CSS ფრეიმვორკის გამოყენებით
 
 ---
 
-## 🎯 ინსტრუქციები
-
 ## 🎨 დიზაინი (Figma)
 
 **[დიზაინი Figma-ში](https://www.figma.com/design/uVHEv0bYOi2K8yacHFYpie/tailwind-exam?node-id=1-2&t=X0nU1RIgTjseJrow-0)**
